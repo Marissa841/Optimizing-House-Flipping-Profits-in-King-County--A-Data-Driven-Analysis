@@ -28,7 +28,7 @@ I’d recommend the company, J.Hughes Inc., invest in houses that have a waterfr
  
 ## For More Information
 
-​​See the full analysis in the [Jupyter Notebook](https://nbviewer.org/github/Marissa841/dsc-phase-2-project/blob/main/phase_2_project.ipynb) or review this [presentation](https://github.com/Marissa841/dsc-phase-2-project/blob/main/phase_2_presentation.pdf).
+​​See the full analysis in the [Jupyter Notebook](https://nbviewer.org/github/Marissa841/dsc-phase-2-project/blob/main/phase_2_project.ipynb) or review this [presentation](https://github.com/Marissa841/dsc-phase-2-project/blob/main/project_2_presentation.pdf).
 For additional info, contact Marissa Bush at Marissabush.02@gmail.com
  
 ## Repository Structure
