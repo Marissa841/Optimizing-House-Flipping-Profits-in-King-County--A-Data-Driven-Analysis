@@ -5,6 +5,8 @@ This project analyzes the King County data set to answer the business case quest
 ## Business Case
  
 The budding Zillow-type company, J.Hughes Inc., is buying and flipping houses in the Seattle area. They would like to know the types of housing features to prioritize to make the most profit. Knowing which features have the biggest impact on housing prices, J. Hughes Inc. could then make data-driven decisions on which houses to purchase to optimize making a profit on.
+
+![map of kc](/images/kc_folium_map.png)
  
 ## Data
 
@@ -24,16 +26,18 @@ I’d recommend the company, J.Hughes Inc., invest in houses that have a waterfr
  
 ## For More Information
 
-​​See the full analysis in the Jupyter Notebook or review this presentation.
+​​See the full analysis in the [Jupyter Notebook](https://nbviewer.org/github/Marissa841/dsc-phase-2-project/blob/main/phase_2_project.ipynb) or review this [presentation](https://github.com/Marissa841/dsc-phase-2-project/blob/main/phase_2_presentation.pdf).
 For additional info, contact Marissa Bush at Marissabush.02@gmail.com
  
 ## Repository Structure
- 
+
+```bash 
 ├── data
 ├── images
 ├── README.md
-├── .pdf
-└── animal_shelter_needs_analysis.ipynb
+├── phase_2_presentation.pdf
+└── phase_2_project.ipynb
+```
  
  
 
