@@ -19,6 +19,8 @@ This project used the OSEMN data science process. OSEMN stands for obtain, scrub
 ## Results
 
 After running four linear regression models, the second model proved to have the best and most relevant results for the stakeholders. Specific housing features to pay attention to when purchasing and flipping homes were most notably waterfront, bathrooms, sqft. Living and several zip codes. The zipcodes that would be the most lucrative begin with the four digits of 9811, 9810, 9819, and 9812. Zip codes to avoid would then be the ones starting with the first four digits of 9809, 9818, 9802, and 9817. 
+
+![model table](/images/model_table.png)
  
  
 ## Conclusions
